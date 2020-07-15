@@ -1,6 +1,6 @@
 ### yo
 
-![flames](flames.gif)![flames](flames.gif)![flames](flames.gif)![flames](flames.gif)![flames](flames.gif)
+![flames](https://github.com/lovelaced/lovelaced/raw/master/flames.gif)![flames](https://github.com/lovelaced/lovelaced/raw/master/flames.gif)![flames](https://github.com/lovelaced/lovelaced/raw/master/flames.gif)![flames](https://github.com/lovelaced/lovelaced/raw/master/flames.gif)![flames](https://github.com/lovelaced/lovelaced/raw/master/flames.gif)
 
 <!--
 **lovelaced/lovelaced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
