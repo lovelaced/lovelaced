@@ -2,6 +2,8 @@
 
 ![flames](https://github.com/lovelaced/lovelaced/raw/master/flames.gif)![flames](https://github.com/lovelaced/lovelaced/raw/master/flames.gif)![flames](https://github.com/lovelaced/lovelaced/raw/master/flames.gif)![flames](https://github.com/lovelaced/lovelaced/raw/master/flames.gif)![flames](https://github.com/lovelaced/lovelaced/raw/master/flames.gif)
 
+![arch_linux_user_bar](https://github.com/lovelaced/lovelaced/raw/master/archuserbar.png)
+![irc_user_bar](https://github.com/lovelaced/lovelaced/raw/master/ircuserbar.png)
 ![chilis](https://github.com/lovelaced/lovelaced/raw/master/chilis.gif)
 
 <!--
